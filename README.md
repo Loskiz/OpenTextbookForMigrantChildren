@@ -1,1 +1,2 @@
 # OpenTextbookForMigrantChildren
+* 本教材的目的是让流动儿童能够方便地教材中的知识
